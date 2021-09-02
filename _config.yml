@@ -1,7 +1,7 @@
 title: Katt.  Wtf. # name of the site
 author: Katt T. Awesome # name of site's author
 email: katt@fatehold.com # email of site's author
-url: https://katt.wtf # root address of the site
+url: https://kattkennedy.me/kattwtf # root address of the site
 baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A shabby, ridiculous site where random nonsense gets to live.
