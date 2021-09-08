@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-This is an example page!
+I'm Katt.  I'm a bit of an odd duck, and wanted somewhere on the internet where I could be weird, and I didn't have any expectations of trying to get hired, get into grad school, or generally do much of anything.
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+This is my happy place.
