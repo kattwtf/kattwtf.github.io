@@ -16,17 +16,10 @@ entries:
  
   - title: rants
     post_list:
-      limit: 5
+      limit: 3
       show_more: true
-      show_more_text: See archive...
+      show_more_text: More rants...
       show_more_url: archive.html
-
-  - title: categorized rants
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
   
   - title: links
     entries:
