@@ -27,10 +27,10 @@ entries:
           - title: github markdown
             url: https://guides.github.com/features/mastering-markdown/
             
-  - title: latest notes
+  - title: rants
     post_list:
       limit: 3
       show_more: true
-      show_more_text: more notes...
+      show_more_text: more rants...
       show_more_url: archive.html
 
