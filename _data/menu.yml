@@ -7,27 +7,30 @@ entries:
     entries:
       - title: email
         url: mailto:katt@fatehold.com
-      - title: user manual
-        url: manual
       - title: github
         url: https://github.com/octokatt
-      - title: rss
-        url: feed.xml
- 
-  - title: rants
-    post_list:
-      limit: 3
-      show_more: true
-      show_more_text: More rants...
-      show_more_url: archive.html
-  
+   
   - title: links
     entries:
-      - title: random
+      - title: browser games
+        entries:
+          - title: infinite wordle
+            url: https://wordlegame.org/
+          - title: infinite word search
+            url: https://thewordsearch.org/
+      - title: plot cookies
         entries:
           - title: science on tap, neuroscience of real life monsters
             url: https://www.youtube.com/watch?v=L4j6PzwmFgc
-      - title: useful
+      - title: reference
         entries:
           - title: github markdown
             url: https://guides.github.com/features/mastering-markdown/
+            
+  - title: latest notes
+    post_list:
+      limit: 3
+      show_more: true
+      show_more_text: more notes...
+      show_more_url: archive.html
+
